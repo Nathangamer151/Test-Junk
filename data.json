@@ -1,0 +1,302 @@
+[
+  {
+    "game_rank": 1,
+    "game_name": "Grow a Garden (Roblox)",
+    "total_players": 210000000,
+    "top_player": "GardenGuru",
+    "difficulty": "Easy",
+    "top_5_players": [
+      "GardenGuru",
+      "SproutStar",
+      "FarmQueen",
+      "SeedMaster",
+      "CropChampion"
+    ],
+    "average_game_length": 30
+  },
+  {
+    "game_rank": 2,
+    "game_name": "Roblox",
+    "total_players": 85300000,
+    "top_player": "RobloxKing",
+    "difficulty": "Varied",
+    "top_5_players": [
+      "RobloxKing",
+      "BuilderBoss",
+      "TycoonAce",
+      "ObbyChamp",
+      "FashionStar"
+    ],
+    "average_game_length": 40
+  },
+  {
+    "game_rank": 3,
+    "game_name": "Fortnite",
+    "total_players": 650000000,
+    "top_player": "VictoryRoyaleX",
+    "difficulty": "Medium",
+    "top_5_players": [
+      "VictoryRoyaleX",
+      "ShottyPro",
+      "BuildWizard",
+      "StormSurfer",
+      "ClutchKing"
+    ],
+    "average_game_length": 15
+  },
+  {
+    "game_rank": 4,
+    "game_name": "Minecraft",
+    "total_players": 300000000,
+    "top_player": "RedstoneMaster",
+    "difficulty": "Medium",
+    "top_5_players": [
+      "RedstoneMaster",
+      "EndHunter",
+      "CreeperSlayer",
+      "BuilderSteve",
+      "FarmCrafter"
+    ],
+    "average_game_length": 60
+  },
+  {
+    "game_rank": 5,
+    "game_name": "PUBG",
+    "total_players": 1000000000,
+    "top_player": "ChickenDinnerPro",
+    "difficulty": "Hard",
+    "top_5_players": [
+      "ChickenDinnerPro",
+      "SniperAce",
+      "ZoneSurvivor",
+      "RushKing",
+      "Tactico"
+    ],
+    "average_game_length": 25
+  },
+  {
+    "game_rank": 6,
+    "game_name": "Call of Duty: Warzone",
+    "total_players": 125000000,
+    "top_player": "WarzoneChamp",
+    "difficulty": "Hard",
+    "top_5_players": [
+      "WarzoneChamp",
+      "QuickScope",
+      "NukeMaster",
+      "RushPro",
+      "Ghost"
+    ],
+    "average_game_length": 30
+  },
+  {
+    "game_rank": 7,
+    "game_name": "League of Legends",
+    "total_players": 125000000,
+    "top_player": "JunglerSupreme",
+    "difficulty": "Very Hard",
+    "top_5_players": [
+      "JunglerSupreme",
+      "MidGod",
+      "ADCQueen",
+      "SupportKing",
+      "TopTank"
+    ],
+    "average_game_length": 35
+  },
+  {
+    "game_rank": 8,
+    "game_name": "CS:GO / CS2",
+    "total_players": 30000000,
+    "top_player": "OneTapPro",
+    "difficulty": "Hard",
+    "top_5_players": [
+      "OneTapPro",
+      "SmokeMaster",
+      "FlashKing",
+      "EcoRoundPro",
+      "ClutchAce"
+    ],
+    "average_game_length": 40
+  },
+  {
+    "game_rank": 9,
+    "game_name": "Valorant",
+    "total_players": 35000000,
+    "top_player": "SpikePlanter",
+    "difficulty": "Hard",
+    "top_5_players": [
+      "SpikePlanter",
+      "HeadshotHero",
+      "ControllerPro",
+      "DuelistAce",
+      "SentinelMaster"
+    ],
+    "average_game_length": 30
+  },
+  {
+    "game_rank": 10,
+    "game_name": "Apex Legends",
+    "total_players": 100000000,
+    "top_player": "SlideHop",
+    "difficulty": "Hard",
+    "top_5_players": [
+      "SlideHop",
+      "KraberShot",
+      "OctaneMain",
+      "PathfinderPro",
+      "WattsonQueen"
+    ],
+    "average_game_length": 22
+  },
+  {
+    "game_rank": 11,
+    "game_name": "Genshin Impact",
+    "total_players": 120000000,
+    "top_player": "VisionHolder",
+    "difficulty": "Medium",
+    "top_5_players": [
+      "VisionHolder",
+      "TravelerX",
+      "GachaMaster",
+      "ElementalQueen",
+      "BossCrusher"
+    ],
+    "average_game_length": 45
+  },
+  {
+    "game_rank": 12,
+    "game_name": "Among Us",
+    "total_players": 500000000,
+    "top_player": "ImpostorKing",
+    "difficulty": "Easy",
+    "top_5_players": [
+      "ImpostorKing",
+      "CrewChief",
+      "SusFinder",
+      "TaskMaster",
+      "VentPro"
+    ],
+    "average_game_length": 10
+  },
+  {
+    "game_rank": 13,
+    "game_name": "Candy Crush Saga",
+    "total_players": 270000000,
+    "top_player": "SweetCrusher",
+    "difficulty": "Easy",
+    "top_5_players": [
+      "SweetCrusher",
+      "LevelUpQueen",
+      "ComboMaster",
+      "BoosterPro",
+      "SweetSpot"
+    ],
+    "average_game_length": 20
+  },
+  {
+    "game_rank": 14,
+    "game_name": "PUBG Mobile",
+    "total_players": 32400000,
+    "top_player": "MobileChicken",
+    "difficulty": "Hard",
+    "top_5_players": [
+      "MobileChicken",
+      "RushPro",
+      "SniperMobile",
+      "ZoneRunner",
+      "DroneMaster"
+    ],
+    "average_game_length": 30
+  },
+  {
+    "game_rank": 15,
+    "game_name": "Free Fire",
+    "total_players": 36800000,
+    "top_player": "FireAce",
+    "difficulty": "Medium",
+    "top_5_players": [
+      "FireAce",
+      "RushHero",
+      "HyperPro",
+      "FlashGuard",
+      "ZoneKing"
+    ],
+    "average_game_length": 20
+  },
+  {
+    "game_rank": 16,
+    "game_name": "Royal Match",
+    "total_players": 45800000,
+    "top_player": "MatchMaster",
+    "difficulty": "Easy",
+    "top_5_players": [
+      "MatchMaster",
+      "TileKing",
+      "ComboQueen",
+      "RewardPro",
+      "Level5"
+    ],
+    "average_game_length": 18
+  },
+  {
+    "game_rank": 17,
+    "game_name": "Honkai: Star Rail",
+    "total_players": 20800000,
+    "top_player": "RailCaptain",
+    "difficulty": "Medium",
+    "top_5_players": [
+      "RailCaptain",
+      "StellarMage",
+      "GachaPro",
+      "CrewLeader",
+      "BossBreaker"
+    ],
+    "average_game_length": 50
+  },
+  {
+    "game_rank": 18,
+    "game_name": "Overwatch 2",
+    "total_players": 2558000,
+    "top_player": "TankMaster",
+    "difficulty": "Medium",
+    "top_5_players": [
+      "TankMaster",
+      "DPSPro",
+      "SupportQueen",
+      "GenjiMain",
+      "TracerKing"
+    ],
+    "average_game_length": 20
+  },
+  {
+    "game_rank": 19,
+    "game_name": "The Sims 4",
+    "total_players": 20000000,
+    "top_player": "SimDesigner",
+    "difficulty": "Easy",
+    "top_5_players": [
+      "SimDesigner",
+      "LifeCoach",
+      "BuilderPro",
+      "StoryTeller",
+      "FashionStar"
+    ],
+    "average_game_length": 60
+  },
+  {
+    "game_rank": 20,
+    "game_name": "Dota 2",
+    "total_players": 13000000,
+    "top_player": "RoshanSlayer",
+    "difficulty": "Very Hard",
+    "top_5_players": [
+      "RoshanSlayer",
+      "CarryPro",
+      "SupportKing",
+      "MidMaster",
+      "OfflaneHero"
+    ],
+    "average_game_length": 45
+  }
+]
