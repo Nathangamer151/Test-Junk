@@ -9,23 +9,8 @@ app = FastAPI()
 with open("data.json", "r") as f:
     data = json.load(f)
 
-@app.get("/")
-def root():
-    return {"message": "Welcome to the Video Game Stats API!"}
-
-@app.get("/games")
-def get_all_games():
-    return data
-
-@app.get("/games/{rank}")
-def get_game_by_rank(rank: int):
-    for game in data:
-        if game["game_rank"] == rank:
-            return game
-    return {"error": "Game not found"}
-
-@app.get("/search", response_class=HTMLResponse)
-async def search_form(request: Request, rank: int = None):
+@app.get("/", response_class=HTMLResponse)
+async def root(request: Request, rank: int = None):
     if rank is None:
         return """
         <h2>Enter Game Rank to see Stats</h2>
@@ -48,10 +33,10 @@ async def search_form(request: Request, rank: int = None):
             <li><b>Top 5 Players:</b> {', '.join(game['top_5_players'])}</li>
             <li><b>Average Game Length:</b> {game['average_game_length']} min</li>
         </ul>
-        <a href="/search">Search Again</a>
+        <a href="/">Search Again</a>
         """
     else:
         return f"""
         <h2>No game found with rank {rank}</h2>
-        <a href="/search">Try again</a>
+        <a href="/">Try again</a>
         """
