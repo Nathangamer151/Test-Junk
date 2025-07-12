@@ -1,3 +1,13 @@
+from fastapi import FastAPI, Request
+from fastapi.responses import HTMLResponse
+import json
+
+app = FastAPI()
+
+# Load data
+with open("data.json", "r") as f:
+    data = json.load(f)
+
 @app.get("/", response_class=HTMLResponse)
 async def root(request: Request, rank: int = None):
     style = """
